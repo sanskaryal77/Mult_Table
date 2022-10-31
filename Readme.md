@@ -1,7 +1,7 @@
 #### Running the Program
 
 - Use "npm i" to install all the required dependencies.
-- Use "npm start" to start the program; resize Shell for better view
+- Use "npm start" to start the program
 - Use "npm run test" to run all the test cases
 
 #### Description of the Program
