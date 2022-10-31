@@ -11,9 +11,9 @@ Creates a 12x12 multiplication table where
 - multi_table[0][0] holds 'X'
 - The first row holds the number i for every position i
 - The first column holds the number j for every position j
-- For all other rows and columns each product i\*j is stored in position multi_table[i][j].
+- For all other rows and columns each product i*j is stored in position multi_table[i][j].
 
 #### Program Structure
 
 - Root folder contains index.js which calls the createMultiplicationTable function on createMultiplicationTable.js
-- Test folder contains index.test.js which contains all the test cases
+- Test folder contains createMultiplicationTable.test.js which contains all the test cases
