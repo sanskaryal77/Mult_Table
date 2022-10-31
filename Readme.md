@@ -1,5 +1,6 @@
-#### Running the Program
 
+#### Running the Program
+- Make sure node and npm are installed
 - Use "npm i" to install all the required dependencies.
 - Use "npm start" to start the program
 - Use "npm run test" to run all the test cases
